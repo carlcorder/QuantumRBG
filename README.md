@@ -3,3 +3,6 @@
 # QuantumRBG
 
 ⚗️ A Quantum Random Bit Generator using Hadamard gates.
+
+### Notes
+* `sudo apt-get install python3-dev`
